@@ -103,5 +103,6 @@ You can also confirm it ran in the console itself:
 
 That is it! That is how you can create a table and load it with data in DynamoDB using Python.
 Resources referenced to complete this project:
+
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Python.01.html
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Python.02.html
